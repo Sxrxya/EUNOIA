@@ -47,5 +47,4 @@ EUNOIA is designed for college students managing academic stress, working profes
 Author
 
 Suriyaprakash M
-Founder, S-TECH
 AI and Data Science Engineer
